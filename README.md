@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhamPriscilla
-- 👀 I’m interested in Art, Creative coding, Ux Engineering and Web Development
-- 🌱 I’m currently learning Javascript and Ux Design
+- 👀 I’m interested in Art, Creative coding, Ux Design and Front-End Development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Twitter @Ahamcreates!
 
