@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhamPriscilla
-- 👀 I’m interested in Art, Mixed Reality, Ux Design and Front-End Development
+- 👀 I’m interested in Illustrations, Ux Design, Front-End Development & Mixed Reality Experiences
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Art, Mixed Reality & Open Source Projects
+- 💞️ I’m looking to collaborate on Design, Mixed Reality & Open Source Projects
 - 📫 How to reach me: Twitter https://twitter.com/AhamPriscilla
 
 <!---
