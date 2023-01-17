@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhamPriscilla
-- 👀 I’m interested in Ux / Web / Brand Design & Front-End Development 
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Design Projects
+- 👀 I’m interested in Ux Strategy / Content Writing / Product Analytics / Notion / Volunteering
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to Contribute on Open Source Projects
 - 📫 How to reach me: Twitter https://twitter.com/AhamPriscilla
 
 <!---
